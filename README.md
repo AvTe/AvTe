@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvTe
+- 👋 Hi, I’m Amit
 - 👀 I’m interested Front-end Web Development 
 - 🌱 I’m currently learning React/JS/Angular 
 - 💞️ I’m looking to collaborate on Web3 Projects 
