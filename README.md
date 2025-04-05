@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Amit
 
-Front-end Developer passionate about building responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, Bootstrap, React, and Angular. Currently expanding my expertise in modern frameworks and clean UI/UX design.
+Full-Stack Developer & UI/UX Designer exploring AI/ML and Blockchain technologies. I build responsive, user-centric web applications with clean and modern design.
 
 ## Highlights
 - 🚀 Built multiple projects using React and Angular
-- 💻 Strong in problem-solving and writing clean code
-- 📦 Experienced with Git & GitHub for version control
+- 💻 Experienced in both front-end and back-end development
+- 📦 Proficient with Git & GitHub for version control
