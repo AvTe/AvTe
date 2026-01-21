@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amit
 
-Full-Stack Developer & UI/UX Designer exploring AI/ML and Blockchain technologies. I build responsive, user-centric web applications with clean and modern design.
+Senior Full Stack Engineer & UI/UX Designer exploring AI/ML and Blockchain technologies. I build responsive, user-centric web applications with clean and modern design.
 
 ## Highlights
 - 🚀 Built multiple projects using React and Angular
