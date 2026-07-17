@@ -96,36 +96,6 @@ I build responsive, user-centric web applications with clean and modern design, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AvTe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvTe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AvTe&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AvTe/RefineAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvTe&repo=RefineAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="RefineAI" />
-</a>
-<a href="https://github.com/AvTe/cold-reached-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvTe&repo=cold-reached-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="cold-reached-ai" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
